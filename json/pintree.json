@@ -27,13 +27,6 @@
       },
       {
         "type": "link",
-        "addDate": 1672578355505,
-        "title": "必应",
-        "icon": "https://logo.clearbit.com/www.bing.com",
-        "url": "https://www.bing.com/"
-      },
-      {
-        "type": "link",
         "addDate": 1669117291049,
         "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
         "icon": "https://logo.clearbit.com/www.bilibili.com",
@@ -158,20 +151,6 @@
           },
           {
             "type": "link",
-            "addDate": 1704159848855,
-            "title": "MacWk - 精品mac软件下载",
-            "icon": "https://logo.clearbit.com/macwk.cn",
-            "url": "https://macwk.cn/"
-          },
-          {
-            "type": "link",
-            "addDate": 1683355460893,
-            "title": "123Mac-123Mac",
-            "icon": "https://logo.clearbit.com/www.123mac.cn",
-            "url": "https://www.123mac.cn/"
-          },
-          {
-            "type": "link",
             "addDate": 1686623086904,
             "title": "ASMR基佬中心导航",
             "icon": "https://logo.clearbit.com/asmrgay.org",
@@ -218,20 +197,6 @@
             "title": "GitHub - niucnet/jinricp: 韩国BJ | 韩国女主播 | pandatv | 진리컴퍼니 | #jinricp",
             "icon": "https://logo.clearbit.com/jinricp.neocities.org",
             "url": "https://jinricp.neocities.org/"
-          },
-          {
-            "type": "link",
-            "addDate": 1721785129993,
-            "title": "OverWall",
-            "icon": "https://logo.clearbit.com/dashboard.overwall.run",
-            "url": "https://dashboard.overwall.run/#/knowledge"
-          },
-          {
-            "type": "link",
-            "addDate": 1685584242005,
-            "title": "MACYY-Mac破解软件分享中心-金华市矜贵网络科技有限公司",
-            "icon": "https://logo.clearbit.com/www.macyy.cn",
-            "url": "https://www.macyy.cn/"
           },
           {
             "type": "link",
@@ -330,6 +295,13 @@
             "title": "京企大讲堂-admin",
             "icon": "https://logo.clearbit.com/lesson.smebj.cn",
             "url": "https://lesson.smebj.cn/course/#/login"
+          },
+          {
+            "type": "link",
+            "addDate": 1672298064260,
+            "title": "京企大讲堂-admin",
+            "icon": "https://logo.clearbit.com/lesson.smebj.cn",
+            "url": "https://lesson.smebj.cn/#/login"
           },
           {
             "type": "link",
@@ -508,10 +480,10 @@
           },
           {
             "type": "link",
-            "addDate": 1672298064260,
-            "title": "京企大讲堂-admin",
-            "icon": "https://logo.clearbit.com/lesson.smebj.cn",
-            "url": "https://lesson.smebj.cn/#/login"
+            "addDate": 1730436383764,
+            "title": "FinalShell官网",
+            "icon": "https://logo.clearbit.com/www.hostbuf.com",
+            "url": "https://www.hostbuf.com/"
           }
         ]
       },
@@ -540,6 +512,13 @@
             "title": "最新高清电影、电视剧、短剧免费观看 - 河狸影视",
             "icon": "https://logo.clearbit.com/www.heli999.com",
             "url": "https://www.heli999.com/?ref=yigekuang.cn"
+          },
+          {
+            "type": "link",
+            "addDate": 1730277039109,
+            "title": "简单TV - 搜索一下 即刻观看",
+            "icon": "https://logo.clearbit.com/jiandantv.com",
+            "url": "https://jiandantv.com/"
           }
         ]
       },
@@ -575,6 +554,13 @@
             "title": "程序员工具箱",
             "icon": "https://logo.clearbit.com/www.idevtool.com",
             "url": "http://www.idevtool.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1729216701720,
+            "title": "格式在线转换",
+            "icon": "https://logo.clearbit.com/www.aconvert.com",
+            "url": "https://www.aconvert.com/cn/pdf/"
           },
           {
             "type": "link",
@@ -743,6 +729,27 @@
             "title": "Jpom-一键部署",
             "icon": "https://logo.clearbit.com/jpom.top",
             "url": "https://jpom.top/"
+          },
+          {
+            "type": "link",
+            "addDate": 1730279479608,
+            "title": "自建科学上网",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/Alvin9999/new-pac/wiki"
+          },
+          {
+            "type": "link",
+            "addDate": 1730340154275,
+            "title": "自搭建科学上网线路体验",
+            "icon": "https://logo.clearbit.com/bulianglin.com",
+            "url": "https://bulianglin.com/archives/nicename.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1730436876521,
+            "title": "Digit77.com | 海量精品Mac应用免费下载",
+            "icon": "https://logo.clearbit.com/www.digit77.com",
+            "url": "https://www.digit77.com/"
           }
         ]
       },
@@ -803,9 +810,9 @@
           {
             "type": "link",
             "addDate": 1693279000765,
-            "title": "chat-gpt",
-            "icon": "https://logo.clearbit.com/chat18.aichatos8.xyz",
-            "url": "https://chat18.aichatos8.xyz/"
+            "title": "chat-gpt4官网",
+            "icon": "https://logo.clearbit.com/chatgpt.com",
+            "url": "https://chatgpt.com/"
           },
           {
             "type": "link",
@@ -827,6 +834,41 @@
             "title": "GitHub - phodal/understand-prompt: 【🔞🔞🔞 内含不适合未成年人阅读的图片】基于我擅长的编程、绘画、写作展开的 AI 探索和总结：StableDiffusion 是一种强大的图像生成模型，能够通过对一张图片进行演化来生成新的图片。ChatGPT 是一个基于 Transformer 的语言生成模型，它能够自动为输入的主题生成合适的文章。而 Github Copilot 是一个智能编程助手，能够加速日常编程活动。",
             "icon": "https://logo.clearbit.com/github.com",
             "url": "https://github.com/phodal/understand-prompt"
+          },
+          {
+            "type": "link",
+            "addDate": 1730689077888,
+            "title": "电子魅魔",
+            "icon": "https://logo.clearbit.com/www.meimoai.com",
+            "url": "https://www.meimoai.com/#/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1730427107388,
+        "title": "机场",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1721785129993,
+            "title": "OverWall",
+            "icon": "https://logo.clearbit.com/dashboard.overwall.run",
+            "url": "https://dashboard.overwall.run/#/knowledge"
+          },
+          {
+            "type": "link",
+            "addDate": 1730427137084,
+            "title": "流量光机场",
+            "icon": "https://logo.clearbit.com/cutt.ly",
+            "url": "https://cutt.ly/heU2e2U3"
+          },
+          {
+            "type": "link",
+            "addDate": 1730427235595,
+            "title": "clash-verge-rev/clash-verge-rev: Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/clash-verge-rev/clash-verge-rev"
           }
         ]
       },
@@ -838,6 +880,12 @@
         "url": "https://game.37.com/play.php?game_id=971&server_id=495164&ext=1|727|115294|1247809|0|t=1!cg=20074!c=11405!v=U1NmwYYIlOxAOQD2DLs.!b=49960!p=1!un=727!l=115294!uid=1247809!a=56061!pd=1!g=971!gs=495164!n=0|os=win10!bs=chrome!trig=nm!keywordid=26936486498&entergametype=tg&reg_pst=MWRkZFB4b3V4QWNEMVhlblZPMFF4NXNXalZBUHQ2czUxSmM5STYrRDFMNEJIaU4rRXFwU29zWmlUZ1VBU3Z5aFl1QUU3SFIyZEx6Mks3Z0MvMTFtSTFha3JUR2EwVUJCOHdGMkZXM1ZvN2d3Y1hSZnlIZU1Hb3BKUVg5dndxOTUrRjluWmlRMWdRNUtWMTVkRkZ3NUlzSVo4OEV2cGpjTGtsSVZrL1Z0bXVoZExtL0dTd1F1M2VmVnR0cXc0OUU5UWN0bm5zNk5VT083SVpFS09Od3d4UE1xcGw3N0VXOTlQZWY2TjRj&login_referer=dGdfYmFpZHUsMTI0NzgwOSw1NjA2MSw0OTk2MCwsMTc2MTQ0MTcxNTMsMCwxLDIyMCw%3D%7Cc6f2567a861f20e027eedd394181a31e"
       }
     ]
+  },
+  {
+    "type": "folder",
+    "addDate": 1683340382571,
+    "title": "其他书签",
+    "children": []
   },
   {
     "type": "folder",
